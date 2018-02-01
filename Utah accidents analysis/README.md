@@ -4,7 +4,7 @@ Exploratory data analysis of the crash data
 
 ### 02 Dataset survey and exploration
 
-Surverying availabe datasets and their properties for selecting the right datasets to combine for analysis.
+Survering available datasets and their properties for selecting the right datasets to combine for analysis.
 
 ### 03 Assign crashes to road segments
 
@@ -35,7 +35,7 @@ For each crash incident, creates 3 negative samples. In one,  the hour is differ
 
 ### 09 Merge weather and create yearly samples
 
-Joins and shufles the positive and negative samples, merges the weather data, and writes out samples for each year.
+Joins and shuffles the positive and negative samples, merges the weather data, and writes out samples for each year.
 
 ### 10 Fit classification models
 
