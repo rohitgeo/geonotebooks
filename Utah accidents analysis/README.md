@@ -8,7 +8,7 @@ Survering available datasets and their properties for selecting the right datase
 
 ### 03 Assign crashes to road segments
 
-Combine the crash data with the safety index layer which has the road segment information. It also provides with several attributes like safety index that can be useful as features.
+Combine the crash data with the safety index layer which has the road segment information. It also provides several attributes like safety index that can be useful as features.
 
 ### 04 Get Active MesoWest Weather stations
 
